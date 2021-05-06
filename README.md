@@ -12,7 +12,7 @@ The following guide is rewritten based the original [this](https://www.prishusof
 #### Step 1: Install the Angular CLI
 
 ```bash
-yarn global ass @angular/cli
+yarn global add @angular/cli
 # or: npm install -g @angular/cli
 ```
 
